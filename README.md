@@ -1,3 +1,5 @@
 # pandas-challenge
 This is the module 4 challenge for the Columbia Data Analytics bootcamp.
-
+Draw two conclusions from the calculations: 
+1. I loved the idea of this challenge: taking basic components such as amount of students, individual grades, and class, to then churn and gather phenomenal analytical data from it. We were able to see the difference in grades depending on so many factors, whether it was the school, the type of it being Chamber or District, the financial budget and capita dervived, etc. We were able to discern big pieces of data all thanks to the 30 thousand individualized inputs. We were able to look at a big picture and then test out what we wanted to filter out through it.
+2. Leads me to this second conclusions. Gathering the initial snapshot of data allows us to then categorize and seperate our information based on what we want to find. Using bins we were able to test different schools' grades based on so many different factors that were fascinating. Such as the capita value, or even the size of the school. I hope this dataset represents a real county because the information gathered from these results was truly a nice image of how one type of school dominates over the other (in that specific county)
